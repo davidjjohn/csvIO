@@ -20,6 +20,8 @@ public class Main {
 
     public static void main(String[] args) {
 
+        // using a Scanner, but a BufferedReader would work
+        // as well, with some appropriate modifications.
         Scanner myfile=null;
 
         // attempt to open "XXX.csv" as a Scanner object
